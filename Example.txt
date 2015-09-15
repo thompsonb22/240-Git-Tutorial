@@ -1,2 +1,3 @@
 Yay Github!
 Branches are fun!
+Master Branch is the best branch!
